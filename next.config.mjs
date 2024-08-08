@@ -1,4 +1,7 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {};
+import path from 'path';
 
-export default nextConfig;
+export default {
+  images: {
+    domains: ['media.dev.to'],
+  },
+};
