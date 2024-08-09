@@ -4,5 +4,5 @@ export const contactsData = {
     address: '375 Savanna Way Ne, Calgary AB, Canada ',
     github: 'https://github.com/Harmandeepkaur04',
     linkedIn: 'https://www.linkedin.com/in/harmandeep-kaur-ba70b1282/',
-    devUsername: "said7388"
+    devUsername: "harmandeep_kaur_04"
 }
